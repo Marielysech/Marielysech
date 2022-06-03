@@ -1,4 +1,14 @@
-👋 Hi, I’m @Marielysech. I'm a career shifter and learning passionate, getting out of my comfort zone is a priority to push myself, to evolve and learning is its cornerstone. 
+
+
+<H3 align="center">
+👋 Hi there! I'm Marie-Lyse Charriere  
+</h3>
+<H4 align="center" color='grey'>
+<sub>A Full Stack Web Developer working with MERN Stack</sub></h4>
+
+------------------
+
+✨ I'm a career shifter and learning passionate, getting out of my comfort zone is a priority to push myself, to evolve and learning is its cornerstone. 
 
 👩‍💻 Becoming a Full Stack developer is a way to quench my curiosity as it requires me to learn and adapt to fast-moving technologies constantly. 
 
